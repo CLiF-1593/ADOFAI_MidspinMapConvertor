@@ -17,5 +17,6 @@ int main() {
 	convertor.Save(path);
 	cout << endl;
 	cout << "Completed!!";
+	system("pause");
 	return 0;
 }
